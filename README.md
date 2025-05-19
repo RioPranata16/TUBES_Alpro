@@ -1,6 +1,7 @@
 TUGAS BESAR ALGORITMA PEMOGRAMAN KELOMPOK 1
 
 Topik 6: Aplikasi Rekomendasi Karier Berdasarkan Minat dan Keahlian
+
 Anggota:
 1. I Kadek Rio Adi Pranata Kusuma (103132400029)
 2. Nur Tsalits Alwan Mubarok (103132400039)
